@@ -31,8 +31,6 @@ I was a little nervous about using *React, as I wasn’t fully comfortable with 
 - 🌐 *HTML & JavaScript* for interactivity  
 - 💡 Various modern web development techniques  
 
-I also plan to *deploy it live, so anyone can explore it online! This project has taught me a lot about combining **creativity with technology*, and I am really proud of how it turned out.  
-
 <img width="908" height="732" alt="image" src="https://github.com/user-attachments/assets/92b65bde-3ea9-44ba-8419-c1e1a084de2b" />
 
 ---
@@ -90,6 +88,9 @@ Feel free to reach out via:
 - ✉ Email: [your-email@example.com](mailto:deysrinjoyee28@gmail.com)  
 - 💼 LinkedIn: [Srinjoyee Dey](https://www.linkedin.com/in/srinjoyeedey)  
 - 🐱 GitHub: [SrinjoyeeDey](https://github.com/SrinjoyeeDey)  
+
+
+<img width="1602" height="740" alt="image" src="https://github.com/user-attachments/assets/41478e34-49ef-47e5-b17f-2e7481dd95e8" />
 
 ---
 

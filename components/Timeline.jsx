@@ -100,7 +100,7 @@ const Timeline = () => {
             <Image
               src={assets.img}
               alt="My Portrait"
-              width={400}
+              width={600}
               height={800}
               className="w-full h-auto rounded-xl"
             />

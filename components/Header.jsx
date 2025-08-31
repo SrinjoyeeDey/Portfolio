@@ -4,7 +4,7 @@ import { assets } from '@/assets/assets'
 
 const Header = () => {
   return (
-    <div className='w-11/12 max-w-3xl text-center mx-auto h-screen flex flex-col items-center justify-center gap-4 pt-40 mb-10' >
+    <div className='w-11/12 max-w-3xl text-center mx-auto h-screen flex flex-col items-center justify-center gap-4 pt-20 mb-10' >
         <div>
         <Image src={assets.profile_img} alt='profile-img' className='rounded-full w-32 justify-center gap-10'/>
         </div>
@@ -14,8 +14,8 @@ const Header = () => {
                 💙 Dreamer with deadlines ✨ | Code, coffee & care 💻☕💗 | Feminine urge to dream big, love small circles & glow alone 🌸 | Building, growing & coding one step at a time 🚀
             </p>
             <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
-                <a href='#contact' className='px-10 py-3 border border-white rounded-full bg-black text-white flex items-center gap-4 mt-10 mb-10'>Contact me<Image src={assets.right_arrow_white} alt='arrow' className='w-4'/></a>
-                <a href='/sample-resume.pdf' download className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-4 mt-10 mb-10'>my resume<Image src={assets.download_icon} alt='download' className='w-4'/></a>
+                <a href='#contact' className='px-10 py-3 border border-white rounded-full bg-black text-white flex items-center gap-4 '>Contact me<Image src={assets.right_arrow_white} alt='arrow' className='w-4'/></a>
+                <a href='/sample-resume.pdf' download className='px-10 py-3 border rounded-full border-gray-500 flex items-center gap-4'>my resume<Image src={assets.download_icon} alt='download' className='w-4'/></a>
             </div>
     </div>
   )

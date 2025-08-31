@@ -33,6 +33,8 @@ I was a little nervous about using *React, as I wasn’t fully comfortable with 
 
 I also plan to *deploy it live, so anyone can explore it online! This project has taught me a lot about combining **creativity with technology*, and I am really proud of how it turned out.  
 
+<img width="908" height="732" alt="image" src="https://github.com/user-attachments/assets/92b65bde-3ea9-44ba-8419-c1e1a084de2b" />
+
 ---
 
 ## 💻 Tech Stack
@@ -85,7 +87,7 @@ Here are some of my *recent works* included in the portfolio:
 
 Feel free to reach out via:
 
-- ✉ Email: [your-email@example.com](mailto:your-email@example.com)  
+- ✉ Email: [your-email@example.com](mailto:deysrinjoyee28@gmail.com)  
 - 💼 LinkedIn: [Srinjoyee Dey](https://www.linkedin.com/in/srinjoyeedey)  
 - 🐱 GitHub: [SrinjoyeeDey](https://github.com/SrinjoyeeDey)  
 
@@ -113,14 +115,15 @@ Feel free to reach out via:
 Click the project cards in the portfolio to see *live projects, designs, and interactive features*!  
 I hope my portfolio inspires and excites you as much as it did for me to build it. 💕
 
----
+
 
 ## 📝 License
 
 This portfolio is for *personal showcase purposes only*.  
 Feel free to explore, share, and provide feedback! 💌
 
----
+
 
 Thank you for visiting my portfolio! 🌸  
 Srinjoyee Dey 💖
+---

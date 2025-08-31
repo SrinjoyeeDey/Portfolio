@@ -43,9 +43,9 @@ const Navbar = () => {
         </ul>
 
         <div className='flex items-center gap-4'>
-            <button className='px-3 py-2 rounded-full text-white'>
+            {/* <button className='px-3 py-2 rounded-full text-white'>
                 <Image src={assets.moon_icon} alt='moon' className='w-6' />
-            </button>
+            </button> */}
             <a href='#contact' className='hidden lg:flex items-center gap-3 px-10 py-2.5 border  border-gray-500 rounded-full ml-4 font-Ovo'>Contact <Image src={assets.arrow_icon} alt="contact" className='w-3'/></a>
 
             <button className='block md:hidden ml-3 cursor-pointer mr-14' onClick={openMenu}>

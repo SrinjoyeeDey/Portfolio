@@ -4,7 +4,7 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div id='about'className='w-full px-[12%] py-24 scroll-mt-20 px-6 md:px-24 relative bg-gradient-to-br from-pink-50 to-purple-50'>
+    <div id='about'className='w-full px-[12%] py-20 scroll-mt-16 px-6 md:px-20 relative bg-gradient-to-br from-pink-50 to-purple-50'>
       <h4 className='text-center mb-2 text-lg font-Ovo'>Introduction</h4>
       <h2 className='text-center text-5xl font-Ovo'>About Me</h2>
       <div className='flex w-full flex-col lg:flex-row items-center gap-20 my-20'>
